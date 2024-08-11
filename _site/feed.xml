@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi. I&apos;m Zakaria Bennane.</title>
+    <description>I&apos;m a Web Developer and Digital Marketer with a passion for Entrepreneurship.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 11 Aug 2024 02:47:46 +0100</pubDate>
+    <lastBuildDate>Sun, 11 Aug 2024 02:47:46 +0100</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Weather App</title>
+        <description>
+</description>
+        <pubDate>Fri, 12 Jan 2024 16:56:00 +0100</pubDate>
+        <link>http://localhost:4000/development/design/2024/01/12/weather-app.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2024/01/12/weather-app.html</guid>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        <category>JS</category>
+        
+        <category>WebPack</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>Proderto</title>
+        <description>
+</description>
+        <pubDate>Thu, 11 Jan 2024 22:15:00 +0100</pubDate>
+        <link>http://localhost:4000/development/design/2024/01/11/proderto.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2024/01/11/proderto.html</guid>
+        
+        <category>NodeJs</category>
+        
+        <category>ExpressJS</category>
+        
+        <category>ReactJS</category>
+        
+        <category>CSS</category>
+        
+        <category>MongoDB</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>SumBroo</title>
+        <description>
+</description>
+        <pubDate>Wed, 10 Jan 2024 16:56:00 +0100</pubDate>
+        <link>http://localhost:4000/development/2024/01/10/sumbroo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2024/01/10/sumbroo.html</guid>
+        
+        <category>NodeJS</category>
+        
+        <category>ExpressJS</category>
+        
+        <category>ReactJS</category>
+        
+        <category>NextJS</category>
+        
+        <category>APIs</category>
+        
+        <category>MongoDB</category>
+        
+        <category>CSS</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
