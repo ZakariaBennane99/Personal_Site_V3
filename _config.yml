@@ -102,5 +102,5 @@ enable_contact: true
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/Personal_Site_V3', text: 'Home' }
-  - { url: '/Personal_Site_V3/about', text: 'About' }
+  - { url: '/', text: 'Home' }
+  - { url: '/about', text: 'About' }
